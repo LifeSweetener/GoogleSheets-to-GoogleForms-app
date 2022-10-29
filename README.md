@@ -21,3 +21,14 @@ Thanks to the *initiators of this idea* :+1: and to GitHub Gist author *tanaikec
 
 ## SEE ALSO
 *My GitHub Gist: [https://gist.github.com/LifeSweetener/325699479be7cb34d62810bd705aa58c](https://gist.github.com/LifeSweetener/325699479be7cb34d62810bd705aa58c).*
+
+## RESULTS
+Test *Google Sheet*:
+
+![sheet](https://user-images.githubusercontent.com/80912103/198853164-55e52a75-afe8-4bea-b1c2-da1866a12752.jpg)
+
+And respective new *Google Form*:
+
+![form](https://user-images.githubusercontent.com/80912103/198853188-7fbde3ab-7782-493b-9e90-9147e5d501d9.jpg)
+
+![form2](https://user-images.githubusercontent.com/80912103/198853190-aa6ff584-54bb-4a38-a927-3423b0ffbac0.jpg)
